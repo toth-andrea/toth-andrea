@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A passionate frontend developer from Hungary</h3>
+<h3 align="center">A passionate software developer from Hungary</h3>
 
 - 🌱 I’m currently learning **.NET Core**
 
